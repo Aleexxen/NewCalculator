@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewCalculator</string>
+    <string name="smth_to_calculate">Smth to calculate</string>
+    <string name="calculator_fragment">Calculator Fragment</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+</resources>
